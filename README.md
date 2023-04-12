@@ -1,1 +1,1 @@
-# Heved's portfolio
+# Heved's react minimum configuration
